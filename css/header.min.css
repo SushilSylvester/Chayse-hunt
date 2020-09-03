@@ -616,7 +616,7 @@ body[data-state=intro] .sound-on-off span {
 }
 
 .preloader-shield .tf::before {
-    background: url(../Images/ui/logo/NC-white.png) no-repeat center center/100%;
+    background: url(../Images/ui/logo/logo.jpg) no-repeat center center/100%;
     content: '';
     position: absolute;
     top: 0;
