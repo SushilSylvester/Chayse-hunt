@@ -4542,7 +4542,7 @@ footer::before {
 
 footer::after {
     content: '';
-    background: url(../Images/figures/hand.png) no-repeat center center/100%;
+    background: url(../Images/figures/nativecreativ.png) no-repeat center center/100%;
     width: 675px;
     height: 670px;
     position: absolute;
@@ -4857,8 +4857,7 @@ footer.condensed[data-active=on] .footer-footer {
 
 .project-thumb {
     background-size: contain;
-    width: 100%;
-    height: 100%
+    width: 50%;
 }
 
 .project-thumb img {
@@ -5037,7 +5036,7 @@ footer.condensed[data-active=on] .footer-footer {
 }
 
 .intro-content .project-thumb {
-    width: 40vw;
+    width: 10vw;
     height: 26.664vw;
     margin: -13.332vw 0 0 -20vw;
     position: absolute;
