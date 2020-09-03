@@ -1099,7 +1099,7 @@ body[data-state=work] .mob-nav::before {
 }
 
 .page-bg li:nth-child(1) {
-    background-color: #ffe270
+    background-color: #fff
 }
 
 .page-bg li:nth-child(2) {
@@ -1458,7 +1458,7 @@ header[data-state=project] .work-figures {
 }
 
 .intro-figures .figures {
-    background-image: url(../Images/home.png)
+    background-image: url(../Images/test.jpg)
 }
 
 .who-figures .figures {
@@ -1476,7 +1476,7 @@ header[data-state=project] .work-figures {
 
 @media (min-width:767px) {
     .intro-figures .figures {
-        background-image: url(../Images/home.png)
+        background-image: url(../Images/test.jpg)
     }
     .who-figures .figures {
         background-image: url(../Images/who.png)
