@@ -33,41 +33,39 @@
 
 
 .text{
+    opacity: 0;
     width: 100%;
   margin-top: 20%; 
-  margin-left: 10%; 
+  margin-left: 15%; 
   position: center;
   animation: ani ;
-  animation-duration: 3s;
+  animation-delay: 4s;
+  animation-duration: 2s;
   animation-fill-mode: forwards;
 }
 .text1{
+    opacity: 0;
     width: 100%;
   margin-top: 30px;
-  margin-left: 10%;   
+  margin-left: 15%;   
   position: relative;
   animation: ani1 ;
-  animation-duration: 5s;
+  animation-delay: 6s;
+  animation-duration: 2s;
   animation-fill-mode: forwards;
 }
 .text2{
+    opacity: 0;
     width: 100%;
   margin-top: 30px;
-  margin-left: 10%;   
+  margin-left: 15%;   
   position: relative;
   animation: ani2 ;
-  animation-duration: 6s;
+  animation-delay: 8s;
+  animation-duration: 2s;
   animation-fill-mode: forwards;
 }
-.text3{
-    width: 100%;
-  margin-top: 30px;
-  margin-left: 10%;   
-  position: relative;
-  animation: ani3 ;
-  animation-duration: 4s;
-  animation-fill-mode: forwards;
-}
+
 
 .text  h1{
     font-family: montserrat;
@@ -94,31 +92,25 @@
 @keyframes ani {
   /*0%   {opacity:0%; left: 0px; top: 0px;}
   25%  { left: 200px; top: 0px;}*/
-  from{opacity:0%; right:0px;}
-  to{right: 10%;}
+  from{opacity:0; right:0px;}
+  to{opacity: 1;right: 200px;}
 }
 
 @keyframes ani1 {
   /*0%   {opacity:0%; left: 0px; top: 0px;}
   25%  { left: 200px; top: 0px;}*/
-  from{opacity:0%; right:0px;}
-  to{right: 10%;}
+  from{opacity:0; right:0px;}
+  to{opacity: 1;right: 200px;}
 }
 
 @keyframes ani2 {
   /*0%   {opacity:0%; left: 0px; top: 0px;}
   25%  { left: 200px; top: 0px;}*/
-  from{opacity:0%; right:0px;}
-  to{right: 10%;}
+  from{opacity:0; right:0px;}
+  to{opacity: 1;right: 200px;}
 }
 
 
-@keyframes ani3 {
-  /*0%   {opacity:0%; left: 0px; top: 0px;}
-  25%  { left: 200px; top: 0px;}*/
-  from{opacity:0%; right:-100px;}
-  to{right: 10%;}
-}
 
 
 
