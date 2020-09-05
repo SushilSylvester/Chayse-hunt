@@ -1,3 +1,8 @@
+
+
+
+
+
 @font-face {
     font-family: Sectra;
     src: url(../fonts/GT-Sectra-Book.eot);
@@ -25,6 +30,90 @@
     font-weight: 400;
     font-style: normal
 }
+
+
+.text{
+    width: 100%;
+  margin-top: 12%;  
+  position: relative;
+  animation: ani ;
+  animation-duration: 3s;
+  animation-fill-mode: forwards;
+}
+.text1{
+    width: 100%;
+  margin-top: 20px;  
+  position: relative;
+  animation: ani1 ;
+  animation-duration: 3s;
+  animation-fill-mode: forwards;
+}
+.text2{
+    width: 100%;
+  margin-top: 20px;  
+  position: relative;
+  animation: ani2 ;
+  animation-duration: 3s;
+  animation-fill-mode: forwards;
+}
+.text3{
+    width: 100%;
+  margin-top: 20px;  
+  position: relative;
+  animation: ani3 ;
+  animation-duration: 3s;
+  animation-fill-mode: forwards;
+}
+
+.text  h1{
+    font-family: montserrat;
+    font-size: 30px;
+}
+
+.text1  h1{
+    font-family: montserrat;
+    font-size: 30px;
+}
+.text2  h1{
+    font-family: montserrat;
+    font-size: 30px;
+}
+.text3  h1{
+    font-family: montserrat;
+    font-size: 30px;
+}
+
+@keyframes ani {
+  /*0%   {opacity:0%; left: 0px; top: 0px;}
+  25%  { left: 200px; top: 0px;}*/
+  from{opacity:0%; top:0px;}
+  to{top: 170px;}
+}
+
+@keyframes ani1 {
+  /*0%   {opacity:0%; left: 0px; top: 0px;}
+  25%  { left: 200px; top: 0px;}*/
+  from{opacity:0%; top:0px;}
+  to{top: 180px;}
+}
+
+@keyframes ani2 {
+  /*0%   {opacity:0%; left: 0px; top: 0px;}
+  25%  { left: 200px; top: 0px;}*/
+  from{opacity:0%; top:0px;}
+  to{top: 190px;}
+}
+
+
+@keyframes ani3 {
+  /*0%   {opacity:0%; left: 0px; top: 0px;}
+  25%  { left: 200px; top: 0px;}*/
+  from{opacity:0%; top:0px;}
+  to{top: 200px;}
+}
+
+
+
 
 body,
 html {
