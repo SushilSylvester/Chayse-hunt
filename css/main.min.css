@@ -390,6 +390,12 @@ i.rights {
     top: 50%
 }
 
+.pos-a-center1 {
+    position: absolute;
+    left: 45%;
+    top: 50%
+}
+
 .pos-a-t-l {
     position: absolute;
     top: 0;

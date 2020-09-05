@@ -306,7 +306,7 @@ body[data-state=intro] .sound-on-off span {
     height: 44px;
     margin: -22px 0 0 -18px;
     top: 50vh;
-    position: fixed
+    position: fixed;
 }
 
 .logo-shield li {
@@ -332,11 +332,11 @@ body[data-state=intro] .sound-on-off span {
 }
 
 .logo-shield li::before {
-    background-color: #fff
+    background-color:#fff;
 }
 
 .logo-shield li::after {
-    background-color: #212121
+    background-color: red;
 }
 
 .logo-shield li:nth-child(1) {
@@ -616,7 +616,7 @@ body[data-state=intro] .sound-on-off span {
 }
 
 .preloader-shield .tf::before {
-    background: url(../Images/ui/logo/logo.jpg) no-repeat center center/100%;
+    background: url(../Images/ui/logo/prelogo.png) no-repeat center center/100%;
     content: '';
     position: absolute;
     top: 0;
@@ -712,27 +712,27 @@ body[data-state=intro] .sound-on-off span {
 }
 
 body[data-state=intro] .preloader-shield .logo-shield li::after {
-    background-color: #fffade
+    background-color: black;
 }
 
 body[data-state=who] .preloader-shield .logo-shield li::after {
-    background-color: #96ffca
+    background-color: black;
 }
 
 body[data-state=what] .preloader-shield .logo-shield li::after {
-    background-color: #fff55a
+    background-color: black;
 }
 
 body[data-state=work] .preloader-shield .logo-shield li::after {
-    background-color: #fbe10f
+    background-color: black;
 }
 
 body[data-state=project] .preloader-shield .logo-shield li::before {
-    background-color: #fff
+    background-color: black;
 }
 
 body[data-state=project] .preloader-shield .logo-shield li::after {
-    background-color: #c8c8d2
+    background-color: black;
 }
 
 body[data-state=project] .preloader-shield .tf {
@@ -740,7 +740,7 @@ body[data-state=project] .preloader-shield .tf {
 }
 
 body[data-state=project] .preloader-shield .tf::before {
-    background: url(../Images/ui/logo/NC-black.svg) no-repeat center center/100%
+    background: url(../Images/ui/logo/prelogo.png) no-repeat center center/100%
 }
 
 .main-nav {
