@@ -34,82 +34,90 @@
 
 .text{
     width: 100%;
-  margin-top: 12%;  
-  position: relative;
+  margin-top: 20%; 
+  margin-left: 10%; 
+  position: center;
   animation: ani ;
   animation-duration: 3s;
   animation-fill-mode: forwards;
 }
 .text1{
     width: 100%;
-  margin-top: 20px;  
+  margin-top: 30px;
+  margin-left: 10%;   
   position: relative;
   animation: ani1 ;
-  animation-duration: 3s;
+  animation-duration: 5s;
   animation-fill-mode: forwards;
 }
 .text2{
     width: 100%;
-  margin-top: 20px;  
+  margin-top: 30px;
+  margin-left: 10%;   
   position: relative;
   animation: ani2 ;
-  animation-duration: 3s;
+  animation-duration: 6s;
   animation-fill-mode: forwards;
 }
 .text3{
     width: 100%;
-  margin-top: 20px;  
+  margin-top: 30px;
+  margin-left: 10%;   
   position: relative;
   animation: ani3 ;
-  animation-duration: 3s;
+  animation-duration: 4s;
   animation-fill-mode: forwards;
 }
 
 .text  h1{
     font-family: montserrat;
     font-size: 30px;
+    color: black;
 }
 
 .text1  h1{
     font-family: montserrat;
     font-size: 30px;
+    color: black;
 }
 .text2  h1{
     font-family: montserrat;
     font-size: 30px;
+    color: black;
 }
 .text3  h1{
     font-family: montserrat;
     font-size: 30px;
+    color: black;
 }
 
 @keyframes ani {
   /*0%   {opacity:0%; left: 0px; top: 0px;}
   25%  { left: 200px; top: 0px;}*/
-  from{opacity:0%; top:0px;}
-  to{top: 170px;}
+  from{opacity:0%; right:0px;}
+  to{right: 10%;}
 }
 
 @keyframes ani1 {
   /*0%   {opacity:0%; left: 0px; top: 0px;}
   25%  { left: 200px; top: 0px;}*/
-  from{opacity:0%; top:0px;}
-  to{top: 180px;}
+  from{opacity:0%; right:0px;}
+  to{right: 10%;}
 }
 
 @keyframes ani2 {
   /*0%   {opacity:0%; left: 0px; top: 0px;}
   25%  { left: 200px; top: 0px;}*/
-  from{opacity:0%; top:0px;}
-  to{top: 190px;}
+  from{opacity:0%; right:0px;}
+  to{right: 10%;}
 }
 
 
 @keyframes ani3 {
   /*0%   {opacity:0%; left: 0px; top: 0px;}
   25%  { left: 200px; top: 0px;}*/
-  from{opacity:0%; top:0px;}
-  to{top: 200px;}
+  from{opacity:0%; right:-100px;}
+  to{right: 10%;}
 }
 
 
