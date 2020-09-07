@@ -7,15 +7,6 @@
 
 /* #PAGE STYLES */
 
-#preloader {
-	position: absolute;
-	top: 0;
-	left: 0;
-	right: 0;
-	bottom: 0;
-	background: #ffffff;
-	z-index: 999999;
-}
 
 #status {
 	width: 200px;
@@ -749,13 +740,7 @@
 	        box-shadow: 0 9px 9px -7px rgba(0,0,0,.1);
 	}
 	
-	.logo {
-		float:left;
-		margin-left:30px;
-		margin-top:15px;
-		width: 140px;
-		height:50px;
-	}
+	
 	
 
 
@@ -801,9 +786,7 @@
 		background: #fff url(../images/icon-menu.png) no-repeat 10px 11px;
 		border-radius: 3px;	
 	}
-	.logo {
-		margin-top:10px;
-	}	
+	
 	ul#menu li {
 		display: none;
 		margin: 0;
@@ -845,12 +828,7 @@
 	}
 }	
 @media only screen and (max-width: 767px) {
-	.logo{
-		margin-left:10px;
-		margin-top:10px;
-		width: 140px;
-		height:50px;
-	}
+
 	
 	#navigation ul {
 		width: 200px;
@@ -899,12 +877,6 @@
 @media only screen and (max-width: 479px) {
 
 	
-	.logo {
-		margin-left:-10px;
-		margin-top:15px;
-		width: 112px;
-		height:40px;
-	}
 	
 	#navigation ul {
 		width: 120px;
