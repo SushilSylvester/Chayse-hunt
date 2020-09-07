@@ -573,7 +573,7 @@ a.arrow-link:hover span::before {
 }
 
 .underline-link::before {
-    background-color: #212121
+    background-color: #212121;
 }
 
 .underline-link::after {
@@ -2548,11 +2548,11 @@ nav {
 }
 
 body[data-state=intro] .underline-link::after {
-    background-color: #ffd42d
+    background-color:#f15a29;
 }
 
 body[data-state=intro] .underline-link:hover span {
-    color: #ffd42d
+    color: #f15a29;
 }
 
 body[data-state=intro] .icon-mail::before {
