@@ -38,7 +38,7 @@ font-face{
    margin-top: 22%;
    position: relative;
    animation-name: example;
-   animation-duration: 6s;
+   animation-duration: 3s;
   
 }
 
@@ -51,7 +51,46 @@ font-face{
     font-family: butler;
     text-transform: capitalize;
     font-size: 50px;
+}
 
+.headertitle1{
+    width: 100%;
+
+   position: relative;
+   animation-name: example;
+   animation-duration: 4s;
+  
+}
+
+@keyframes example {
+   0%   {opacity: 0%; left:100%; }
+  100%  {opacity: 100%; left:100px; }
+}
+
+.headertitle1 p{
+    font-family: butler;
+    text-transform: capitalize;
+    font-size: 50px;
+}
+
+.headertitle2{
+    width: 100%;
+
+   position: relative;
+   animation-name: example;
+   animation-duration: 5s;
+  
+}
+
+@keyframes example {
+   0%   {opacity: 0%; left:100%; }
+  100%  {opacity: 100%; left:100px; }
+}
+
+.headertitle2 p{
+    font-family: butler;
+    text-transform: capitalize;
+    font-size: 50px;
 }
 
 
