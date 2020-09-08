@@ -34,6 +34,12 @@ font-face{
     font-style: normal
 }
 
+
+.headertext{
+    font-size: 30px;
+    color: black;
+}
+
 nav {
     font-family: butler;
     top: 3.3vw;
@@ -1107,7 +1113,7 @@ body[data-state=work] .mob-nav::before {
 }
 
 .page-bg li:nth-child(1) {
-    background-color: #D3D3D3
+    background-color: #fff
 }
 
 .page-bg li:nth-child(2) {
