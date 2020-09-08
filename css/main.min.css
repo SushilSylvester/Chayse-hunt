@@ -1,5 +1,4 @@
 font-face{
-
     src: url(fonts/Butler_Regular.otf);
     font-family: butler;
 }
@@ -33,10 +32,29 @@ font-face{
     font-style: normal
 }
 
-.text{
-    font-family: butler;
-    font-size: 24px;
+
+.headertitle{
+    width: 100%;
+   margin-top: 22%;
+   position: relative;
+   animation-name: example;
+   animation-duration: 6s;
+  
 }
+
+@keyframes example {
+   0%   {opacity: 0%; left:100%; }
+  100%  {opacity: 100%; left:100px; }
+}
+
+.headertitle p{
+    font-family: butler;
+    text-transform: capitalize;
+    font-size: 50px;
+
+}
+
+
 
 body,
 html {
