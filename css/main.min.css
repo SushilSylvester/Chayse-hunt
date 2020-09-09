@@ -125,10 +125,10 @@ text-align: center;
   .headertitle{
 width: 60%;
 display: block;
-margin-left: auto;
+margin-left: 16%;
 margin-right: auto;
 text-align: center;
-margin-top: 70% !important;
+margin-top: 45% !important;
   }
   .headertext{
     margin-left: 0px;
@@ -146,7 +146,7 @@ margin-top: 70% !important;
    width: 86%;
    margin-top: 70% !important;
    display: block;
-margin-left: auto;
+margin-left: -5%;
 margin-right: auto;
 text-align: center;
   }
