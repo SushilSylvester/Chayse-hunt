@@ -1,5 +1,13 @@
 
 
+
+
+font-face{
+
+    src: url(fonts/Butler-Bold.woff2);
+    font-family: butler-bold;
+}
+
 font-face{
 
     src: url(fonts/Butler_Regular.otf);

@@ -1,3 +1,9 @@
+
+font-face{
+    src: url(fonts/Butler-Bold.woff2);
+    font-family: butler-bold;
+}
+
 font-face{
     src: url(fonts/Butler_Regular.otf);
     font-family: butler;
@@ -36,16 +42,15 @@ font-face{
 .headertitle{
 width: 100%;
 margin-top: 22% !important;
-
-
+height: 50px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 52%;
+text-align: center;
 }
 
-.position{
-display: block;
-  margin-left: auto;
-  margin-right: 2%;
-  width: 80%;
-      }
+
 
 .headertext{
    font-size: 40px !important;
@@ -4615,7 +4620,7 @@ footer::before {
     transition: transform .62s cubic-bezier(.7, .3, 0, 1)
 }
 
-footer::after {
+/*footer::after {
     content: '';
     background: url(../Images/figures/nativecreativ.png) no-repeat center center/100%;
     width: 675px;
@@ -4627,7 +4632,7 @@ footer::after {
     -webkit-transition: .95s cubic-bezier(1, 0, 0, 1);
     -moz-transition: .95s cubic-bezier(1, 0, 0, 1);
     transition: .95s cubic-bezier(1, 0, 0, 1)
-}
+}*/
 
 footer .footer-social {
     margin-top: -1px
