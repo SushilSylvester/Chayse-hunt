@@ -36,19 +36,19 @@ font-face{
 .headertitle{
 width: 100%;
 margin-top: 22% !important;
-text-align: center !important;
+
 
 }
 
 .position{
 display: block;
   margin-left: auto;
-  margin-right: auto;
-  width: 46%;
+  margin-right: 2%;
+  width: 80%;
       }
 
 .headertext{
-
+   font-size: 40px !important;
     color: black;
     float: left;
     font-size: 20px;
@@ -63,7 +63,7 @@ display: block;
 }
 
 .headertext1{
-
+font-size: 40px !important;
     color: black;
     float: left;
         font-size: 20px;
@@ -79,7 +79,7 @@ display: block;
 }
 
 .headertext2{
-
+font-size: 40px !important;
     color: black;
     float: left;
     margin-left: 40px;
