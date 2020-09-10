@@ -933,7 +933,7 @@ body[data-state=project] .mob-nav-btn {
 }
 
 body[data-state=intro] .mob-nav::before {
-    background-color: #ffd42d
+    background-color: #f15a29
 }
 
 body[data-state=who] .mob-nav::before {

@@ -1,31 +1,37 @@
 
+
 font-face{
-    src: url(fonts/Butler-Bold.woff2);
-    font-family: butler-bold;
+     font-family: butler-bold;
+    src: url(../fonts/Butler-Bold.woff);
+   
 }
 
 font-face{
-    src: url(fonts/Butler_Regular.otf);
     font-family: butler;
+    src: url(../fonts/Butler_Regular.otf);   
 }
 
+font-face{
+    font-family: roboto-bold;
+    src: url(../fonts/Roboto-Bold.ttf);   
+}
 
 @font-face {
     font-family: Sectra;
-    src: url(fonts/GT-Sectra-Book.eot);
-    src: url(fonts/GT-Sectra-Book.eot) format("embedded-opentype"), url(fonts/GT-Sectra-Book.woff) format("woff"), url(fonts/GT-Sectra-Book.ttf) format("truetype"), url(fonts/GT-Sectra-Book.svg#Sectra) format("svg")
+    src: url(../fonts/GT-Sectra-Book.eot);
+    src: url(../fonts/GT-Sectra-Book.eot) format("embedded-opentype"), url(../fonts/GT-Sectra-Book.woff) format("woff"), url(../fonts/GT-Sectra-Book.ttf) format("truetype"), url(../fonts/GT-Sectra-Book.svg#Sectra) format("svg")
 }
 
 @font-face {
     font-family: 'Sectra Bold';
-    src: url(fonts/GT-Sectra-Display-Bold.eot);
-    src: url(fonts/GT-Sectra-Display-Bold.eot) format("embedded-opentype"), url(fonts/GT-Sectra-Display-Bold.woff) format("woff"), url(fonts/GT-Sectra-Display-Bold.ttf) format("truetype"), url(fonts/GT-Sectra-Display-Bold.svg#Sectra) format("svg")
+    src: url(../fonts/GT-Sectra-Display-Bold.eot);
+    src: url(../fonts/GT-Sectra-Display-Bold.eot) format("embedded-opentype"), url(../fonts/GT-Sectra-Display-Bold.woff) format("woff"), url(../fonts/GT-Sectra-Display-Bold.ttf) format("truetype"), url(../fonts/GT-Sectra-Display-Bold.svg#Sectra) format("svg")
 }
 
 @font-face {
     font-family: 'Ginger Regular';
-    src: url(fonts/f37ginger-regular-webfont.eot);
-    src: url(fonts/f37ginger-regular-webfont.eot?#iefix) format("embedded-opentype"), url(fonts/f37ginger-regular-webfont.woff) format("woff"), url(fonts/f37ginger-regular-webfont.ttf) format("truetype"), url(fonts/f37ginger-regular-webfont.svg#f37ginger-bold) format("svg");
+    src: url(../fonts/f37ginger-regular-webfont.eot);
+    src: url(../fonts/f37ginger-regular-webfont.eot?#iefix) format("embedded-opentype"), url(../fonts/f37ginger-regular-webfont.woff) format("woff"), url(../fonts/f37ginger-regular-webfont.ttf) format("truetype"), url(../fonts/f37ginger-regular-webfont.svg#f37ginger-bold) format("svg");
     font-weight: 400;
     font-style: normal
 }
@@ -33,7 +39,7 @@ font-face{
 @font-face {
     font-family: 'Ginger Bold';
     src: url(fonts/f37ginger-bold-webfont.eot);
-    src: url(fonts/f37ginger-bold-webfont.eot?#iefix) format("embedded-opentype"), url(fonts/f37ginger-bold-webfont.woff) format("woff"), url(fonts/f37ginger-bold-webfont.ttf) format("truetype"), url(fonts/f37ginger-bold-webfont.svg#f37ginger-bold) format("svg");
+    src: url(fonts/f37ginger-bold-webfont.eot?#iefix) format("embedded-opentype"), url(../fonts/f37ginger-bold-webfont.woff) format("woff"), url(../fonts/f37ginger-bold-webfont.ttf) format("truetype"), url(../fonts/f37ginger-bold-webfont.svg#f37ginger-bold) format("svg");
     font-weight: 400;
     font-style: normal
 }
@@ -231,7 +237,7 @@ h2,
 h3,
 h4,
 h5 {
-    font-family: 'butler';
+    font-family: 'Oswald', sans-serif;
     letter-spacing: -.05em
 }
 
