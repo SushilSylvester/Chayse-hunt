@@ -4661,12 +4661,12 @@ section[data-active=on]:not(.scroll-content-shown) h3::after {
 footer {
     width: 100%;
     position: relative;
-    height: 500px;
+    height: 50px;
     color: #212121;
     overflow: hidden
 }
 
-footer::before {
+/*footer::before {
     content: '';
     position: absolute;
     top: 0;
@@ -4682,7 +4682,7 @@ footer::before {
     -webkit-transition: -webkit-transform .62s cubic-bezier(.7, .3, 0, 1);
     -moz-transition: -moz-transform .62s cubic-bezier(.7, .3, 0, 1);
     transition: transform .62s cubic-bezier(.7, .3, 0, 1)
-}
+}*/
 
 /*footer::after {
     content: '';
@@ -5181,9 +5181,9 @@ footer.condensed[data-active=on] .footer-footer {
 }
 
 .intro-content .project-thumb {
-    width: 40vw;
+    width: 28vw;
     height: 26.664vw;
-    margin: -13.332vw 0 0 -20vw;
+    margin: -4.332vw 0 0 -12vw;
     position: absolute;
     -webkit-transition: .67s cubic-bezier(.52, .01, .16, 1);
     -moz-transition: .67s cubic-bezier(.52, .01, .16, 1);
@@ -5192,9 +5192,9 @@ footer.condensed[data-active=on] .footer-footer {
 
 @media screen and (min-width:1400px) {
     .intro-content .project-thumb {
-        width: 30vw;
+        width: 20vw;
         height: 19.93vw;
-        margin: -9.965vw 0 0 -15vw
+        margin: -4.965vw 0 0 -12vw
     }
 }
 
