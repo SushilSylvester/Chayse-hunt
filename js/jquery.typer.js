@@ -1,1 +1,0 @@
-No Content: https://ivang-design.com/apollo/slider/js/jquery.typer.js
