@@ -114,15 +114,15 @@ nav[data-state=work] .main-nav li:nth-child(4) .wiggle::before {
 }
 
 nav[data-state=who] .wiggle::before {
-    background: url(../Images/ui/wiggle-who.svg) repeat-x center center/7px 3px
+    background: url(../images/ui/wiggle-who.svg) repeat-x center center/7px 3px
 }
 
 nav[data-state=what] .wiggle::before {
-    background: url(../Images/ui/wiggle-what.svg) repeat-x center center/7px 3px
+    background: url(../images/ui/wiggle-what.svg) repeat-x center center/7px 3px
 }
 
 nav[data-state=work] .wiggle::before {
-    background: url(../Images/ui/wiggle-work.svg) repeat-x center center/7px 3px
+    background: url(../images/ui/wiggle-work.svg) repeat-x center center/7px 3px
 }
 
 nav .back-to-top-arrow-wrap {
@@ -246,7 +246,7 @@ body[data-state=project] .sound-on-off {
     height: 26px;
     bottom: 45px;
     left: 3vw;
-    background: url(../Images/ui/sound-icon-white-muted.svg) no-repeat center center/100%;
+    background: url(../images/ui/sound-icon-white-muted.svg) no-repeat center center/100%;
     -webkit-transition: .27s;
     -moz-transition: .27s;
     transition: .27s
@@ -282,15 +282,15 @@ html.touchevents .sound-on-off {
 }
 
 .sound-on-off.sound-turned-on {
-    background: url(../Images/ui/sound-icon-white.svg) no-repeat center center/100%
+    background: url(../images/ui/sound-icon-white.svg) no-repeat center center/100%
 }
 
 body[data-state=intro] .sound-on-off {
-    background: url(../Images/ui/sound-icon-muted.svg) no-repeat center center/100%
+    background: url(../images/ui/sound-icon-muted.svg) no-repeat center center/100%
 }
 
 body[data-state=intro] .sound-on-off.sound-turned-on {
-    background: url(../Images/ui/sound-icon.svg) no-repeat center center/100%
+    background: url(../images/ui/sound-icon.svg) no-repeat center center/100%
 }
 
 body[data-state=intro] .sound-on-off span {
@@ -516,11 +516,11 @@ body[data-state=intro] .sound-on-off span {
 }
 
 .logo-icons li:nth-child(1)::before {
-    background: url(../Images/ui/logo/logo.png) no-repeat center center/100%
+    background: url(../images/ui/logo/logo.png) no-repeat center center/100%
 }
 
 .logo-icons li:nth-child(1)::after {
-    background: url(../Images/ui/logo/logo.png) no-repeat center center/100%
+    background: url(../images/ui/logo/logo.png) no-repeat center center/100%
 }
 
 .logo[data-color-state=black] .logo-shield li::before,
@@ -633,7 +633,7 @@ body[data-state=intro] .sound-on-off span {
 }
 
 .preloader-shield .tf::before {
-    background: url(../Images/ui/logo/logo.png) no-repeat center center/100%;
+    background: url(../images/ui/logo/logo.png) no-repeat center center/100%;
     content: '';
     position: absolute;
     top: 0;
@@ -757,7 +757,7 @@ body[data-state=project] .preloader-shield .tf {
 }
 
 body[data-state=project] .preloader-shield .tf::before {
-    background: url(../Images/ui/logo/NC-black.svg) no-repeat center center/100%
+    background: url(../images/ui/logo/NC-black.svg) no-repeat center center/100%
 }
 
 .main-nav {
@@ -1124,7 +1124,7 @@ body[data-state=work] .mob-nav::before {
 }
 
 .page-bg li:nth-child(2) .horizon-bg {
-    background: url(../Images/bg/horizon-who.jpg) no-repeat center center/cover
+    background: url(../images/bg/horizon-who.jpg) no-repeat center center/cover
 }
 
 .page-bg li:nth-child(3) {
@@ -1132,7 +1132,7 @@ body[data-state=work] .mob-nav::before {
 }
 
 .page-bg li:nth-child(3) .horizon-bg {
-    background: url(../Images/bg/horizon-what.jpg) no-repeat center center/cover
+    background: url(../images/bg/horizon-what.jpg) no-repeat center center/cover
 }
 
 .page-bg li:nth-child(4) {
@@ -1140,7 +1140,7 @@ body[data-state=work] .mob-nav::before {
 }
 
 .page-bg li:nth-child(4) .horizon-bg {
-    background: url(../Images/bg/horizon-work.jpg) no-repeat center center/cover
+    background: url(../images/bg/horizon-work.jpg) no-repeat center center/cover
 }
 
 .page-bg li:nth-child(5) {
@@ -1475,34 +1475,34 @@ header[data-state=project] .work-figures {
 }
 
 .intro-figures .figures {
-    background-image: url(../Images/home.png)
+    background-image: url(../images/home.png)
 }
 
 .who-figures .figures {
-    background-image: url(../Images/who.png)
+    background-image: url(../images/who.png)
 }
 
 .what-figures .figures-jonny {
-    background-image: url(../Images/what.png);
+    background-image: url(../images/what.png);
     background-size: 60%
 }
 
 .work-figures .figures {
-    background-image: url(../Images/work.png)
+    background-image: url(../images/work.png)
 }
 
 @media (min-width:767px) {
     .intro-figures .figures {
-        background-image: url(../Images/home.png)
+        background-image: url(../images/home.png)
     }
     .who-figures .figures {
-        background-image: url(../Images/who.png)
+        background-image: url(../images/who.png)
     }
     .what-figures .figures-jonny {
-        background-image: url(../Images/what.png)
+        background-image: url(../images/what.png)
     }
     .work-figures .figures {
-        background-image: url(../Images/work.png)
+        background-image: url(../images/work.png)
     }
 }
 
@@ -1755,7 +1755,7 @@ html.no-backgroundblendmode .contact-modal a.huge-text {
     left: 0;
     width: 100%;
     height: 100%;
-    background: url(../Images/figures/hand-cursor.png) no-repeat center center/100%;
+    background: url(../images/figures/hand-cursor.png) no-repeat center center/100%;
     -webkit-transform-origin: 15% 0;
     -moz-transform-origin: 15% 0;
     -ms-transform-origin: 15% 0;

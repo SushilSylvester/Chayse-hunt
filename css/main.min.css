@@ -653,7 +653,7 @@ a.arrow-link span::before {
     -ms-transform: translateX(-50px);
     -o-transform: translateX(-50px);
     transform: translateX(-50px);
-    background: url(../Images/ui/arrow.svg) no-repeat center center/100% 100%
+    background: url(../images/ui/arrow.svg) no-repeat center center/100% 100%
 }
 
 a.arrow-link:hover {
@@ -769,7 +769,7 @@ a.arrow-link:hover span::before {
     width: 6px;
     height: 6px;
     margin: -3px 0 0 -3px;
-    background: url(../Images/ui/arrow-head-white.svg) no-repeat center center/100%
+    background: url(../images/ui/arrow-head-white.svg) no-repeat center center/100%
 }
 
 .arrow-head[data-color=black] span::before {
@@ -777,7 +777,7 @@ a.arrow-link:hover span::before {
 }
 
 .arrow-head[data-color=black] span::after {
-    background: url(../Images/ui/arrow-head-black.svg) no-repeat center center/100%
+    background: url(../images/ui/arrow-head-black.svg) no-repeat center center/100%
 }
 
 .box-arrow-link {
@@ -1129,36 +1129,36 @@ a.arrow-link:hover span::before {
 }
 
 .icon.icon-mail::after {
-    background: url(../Images/ui/icon-mail.svg) no-repeat center center/100%
+    background: url(../images/ui/icon-mail.svg) no-repeat center center/100%
 }
 
 .icon.icon-twitter::after {
-    background: url(../Images/ui/icon-twitter.svg) no-repeat center center/100%
+    background: url(../images/ui/icon-twitter.svg) no-repeat center center/100%
 }
 
 .icon.icon-behance::after {
-    background: url(../Images/ui/icon-behance.svg) no-repeat center center/100%
+    background: url(../images/ui/icon-behance.svg) no-repeat center center/100%
 }
 
 .icon.icon-instagram::after {
     background-color: #000;
-    -webkit-mask-image: url(../Images/ui/icon-instagram.svg);
-    mask-image: url(../Images/ui/icon-instagram.svg)
+    -webkit-mask-image: url(../images/ui/icon-instagram.svg);
+    mask-image: url(../images/ui/icon-instagram.svg)
 }
 
 .icon.icon-facebook::after {
     background-color: #000;
-    -webkit-mask-image: url(../Images/ui/icon-facebook.svg);
+    -webkit-mask-image: url(../images/ui/icon-facebook.svg);
     background-size: contain;
-    mask-image: url(../Images/ui/icon-facebook.svg)
+    mask-image: url(../images/ui/icon-facebook.svg)
 }
 
 .icon.icon-dribbble::after {
-    background: url(../Images/ui/icon-dribbble.svg) no-repeat center center/100%
+    background: url(../images/ui/icon-dribbble.svg) no-repeat center center/100%
 }
 
 .icon.icon-linkedin::after {
-    background: url(../Images/ui/icon-linkedin.svg) no-repeat center center/100%
+    background: url(../images/ui/icon-linkedin.svg) no-repeat center center/100%
 }
 
 .icon:hover::before {
@@ -1509,7 +1509,7 @@ a.arrow-link:hover span::before {
     -webkit-transition: .45s cubic-bezier(.52, .01, .16, 1);
     -moz-transition: .45s cubic-bezier(.52, .01, .16, 1);
     transition: .45s cubic-bezier(.52, .01, .16, 1);
-    background: url(../Images/ui/wiggle-white.svg) repeat-x center center/7px 3px;
+    background: url(../images/ui/wiggle-white.svg) repeat-x center center/7px 3px;
     backface-visibility: hidden;
     -webkit-backface-visibility: hidden
 }
@@ -1518,7 +1518,7 @@ a.arrow-link:hover span::before {
     width: 660px;
     height: 330px;
     margin: -165px 0 0 -330px;
-    background: url(../Images/ui/toyfight-logo.svg) no-repeat center center/100%
+    background: url(../images/ui/toyfight-logo.svg) no-repeat center center/100%
 }
 
 .scroll-arrow-wrap {
@@ -2328,7 +2328,7 @@ body[data-state=intro] .scroll-arrow span::before {
 }
 
 .logo-animation .logo-piece.t-1 div::before {
-    background: url(../Images/ui/logo/toyfight-word/t/t-h-1.svg) no-repeat center center
+    background: url(../images/ui/logo/toyfight-word/t/t-h-1.svg) no-repeat center center
 }
 
 .logo-animation .logo-piece.t-2 {
@@ -2337,7 +2337,7 @@ body[data-state=intro] .scroll-arrow span::before {
 }
 
 .logo-animation .logo-piece.t-2 div::before {
-    background: url(../Images/ui/logo/toyfight-word/t/t-v-1.svg) no-repeat center center
+    background: url(../images/ui/logo/toyfight-word/t/t-v-1.svg) no-repeat center center
 }
 
 .logo-animation .logo-piece.t-3 {
@@ -2346,7 +2346,7 @@ body[data-state=intro] .scroll-arrow span::before {
 }
 
 .logo-animation .logo-piece.t-3 div::before {
-    background: url(../Images/ui/logo/toyfight-word/t/t-d-1.svg) no-repeat center center
+    background: url(../images/ui/logo/toyfight-word/t/t-d-1.svg) no-repeat center center
 }
 
 .logo-animation .logo-piece.o-1 {
@@ -2356,7 +2356,7 @@ body[data-state=intro] .scroll-arrow span::before {
 }
 
 .logo-animation .logo-piece.o-1 div::before {
-    background: url(../Images/ui/logo/toyfight-word/o/o-v-1.svg) no-repeat center center
+    background: url(../images/ui/logo/toyfight-word/o/o-v-1.svg) no-repeat center center
 }
 
 .logo-animation .logo-piece.o-2 {
@@ -2365,7 +2365,7 @@ body[data-state=intro] .scroll-arrow span::before {
 }
 
 .logo-animation .logo-piece.o-2 div::before {
-    background: url(../Images/ui/logo/toyfight-word/o/o-h-1.svg) no-repeat center center
+    background: url(../images/ui/logo/toyfight-word/o/o-h-1.svg) no-repeat center center
 }
 
 .logo-animation .logo-piece.o-3 {
@@ -2374,7 +2374,7 @@ body[data-state=intro] .scroll-arrow span::before {
 }
 
 .logo-animation .logo-piece.o-3 div::before {
-    background: url(../Images/ui/logo/toyfight-word/o/o-v-2.svg) no-repeat center center
+    background: url(../images/ui/logo/toyfight-word/o/o-v-2.svg) no-repeat center center
 }
 
 .logo-animation .logo-piece.o-4 {
@@ -2383,7 +2383,7 @@ body[data-state=intro] .scroll-arrow span::before {
 }
 
 .logo-animation .logo-piece.o-4 div::before {
-    background: url(../Images/ui/logo/toyfight-word/o/o-d-1.svg) no-repeat center center
+    background: url(../images/ui/logo/toyfight-word/o/o-d-1.svg) no-repeat center center
 }
 
 .logo-animation .logo-piece.y-1 {
@@ -2392,7 +2392,7 @@ body[data-state=intro] .scroll-arrow span::before {
 }
 
 .logo-animation .logo-piece.y-1 div::before {
-    background: url(../Images/ui/logo/toyfight-word/y/y-v-1.svg) no-repeat center center
+    background: url(../images/ui/logo/toyfight-word/y/y-v-1.svg) no-repeat center center
 }
 
 .logo-animation .logo-piece.y-2 {
@@ -2401,7 +2401,7 @@ body[data-state=intro] .scroll-arrow span::before {
 }
 
 .logo-animation .logo-piece.y-2 div::before {
-    background: url(../Images/ui/logo/toyfight-word/y/y-d-1.svg) no-repeat center center
+    background: url(../images/ui/logo/toyfight-word/y/y-d-1.svg) no-repeat center center
 }
 
 .logo-animation .logo-piece.y-3 {
@@ -2410,7 +2410,7 @@ body[data-state=intro] .scroll-arrow span::before {
 }
 
 .logo-animation .logo-piece.y-3 div::before {
-    background: url(../Images/ui/logo/toyfight-word/y/y-v-2.svg) no-repeat center center
+    background: url(../images/ui/logo/toyfight-word/y/y-v-2.svg) no-repeat center center
 }
 
 .logo-animation .logo-piece.y-4 {
@@ -2419,7 +2419,7 @@ body[data-state=intro] .scroll-arrow span::before {
 }
 
 .logo-animation .logo-piece.y-4 div::before {
-    background: url(../Images/ui/logo/toyfight-word/y/y-d-2.svg) no-repeat center center
+    background: url(../images/ui/logo/toyfight-word/y/y-d-2.svg) no-repeat center center
 }
 
 .logo-animation .logo-piece.f-1 {
@@ -2428,7 +2428,7 @@ body[data-state=intro] .scroll-arrow span::before {
 }
 
 .logo-animation .logo-piece.f-1 div::before {
-    background: url(../Images/ui/logo/toyfight-word/f/f-h-1.svg) no-repeat center center
+    background: url(../images/ui/logo/toyfight-word/f/f-h-1.svg) no-repeat center center
 }
 
 .logo-animation .logo-piece.f-2 {
@@ -2437,7 +2437,7 @@ body[data-state=intro] .scroll-arrow span::before {
 }
 
 .logo-animation .logo-piece.f-2 div::before {
-    background: url(../Images/ui/logo/toyfight-word/f/f-v-1.svg) no-repeat center center
+    background: url(../images/ui/logo/toyfight-word/f/f-v-1.svg) no-repeat center center
 }
 
 .logo-animation .logo-piece.f-3 {
@@ -2446,7 +2446,7 @@ body[data-state=intro] .scroll-arrow span::before {
 }
 
 .logo-animation .logo-piece.f-3 div::before {
-    background: url(../Images/ui/logo/toyfight-word/f/f-h-2.svg) no-repeat center center
+    background: url(../images/ui/logo/toyfight-word/f/f-h-2.svg) no-repeat center center
 }
 
 .logo-animation .logo-piece.i-1 {
@@ -2455,7 +2455,7 @@ body[data-state=intro] .scroll-arrow span::before {
 }
 
 .logo-animation .logo-piece.i-1 div::before {
-    background: url(../Images/ui/logo/toyfight-word/i/i-v-1.svg) no-repeat center center
+    background: url(../images/ui/logo/toyfight-word/i/i-v-1.svg) no-repeat center center
 }
 
 .logo-animation .logo-piece.i-2 {
@@ -2464,7 +2464,7 @@ body[data-state=intro] .scroll-arrow span::before {
 }
 
 .logo-animation .logo-piece.i-2 div::before {
-    background: url(../Images/ui/logo/toyfight-word/i/i-d-1.svg) no-repeat center center
+    background: url(../images/ui/logo/toyfight-word/i/i-d-1.svg) no-repeat center center
 }
 
 .logo-animation .logo-piece.g-1 {
@@ -2473,7 +2473,7 @@ body[data-state=intro] .scroll-arrow span::before {
 }
 
 .logo-animation .logo-piece.g-1 div::before {
-    background: url(../Images/ui/logo/toyfight-word/g/g-v-1.svg) no-repeat center center
+    background: url(../images/ui/logo/toyfight-word/g/g-v-1.svg) no-repeat center center
 }
 
 .logo-animation .logo-piece.g-2 {
@@ -2482,7 +2482,7 @@ body[data-state=intro] .scroll-arrow span::before {
 }
 
 .logo-animation .logo-piece.g-2 div::before {
-    background: url(../Images/ui/logo/toyfight-word/g/g-d-1.svg) no-repeat center center
+    background: url(../images/ui/logo/toyfight-word/g/g-d-1.svg) no-repeat center center
 }
 
 .logo-animation .logo-piece.g-3 {
@@ -2493,7 +2493,7 @@ body[data-state=intro] .scroll-arrow span::before {
 }
 
 .logo-animation .logo-piece.g-3 div::before {
-    background: url(../Images/ui/logo/toyfight-word/g/g-h-1.svg) no-repeat center center
+    background: url(../images/ui/logo/toyfight-word/g/g-h-1.svg) no-repeat center center
 }
 
 .logo-animation .logo-piece.g-4 {
@@ -2503,7 +2503,7 @@ body[data-state=intro] .scroll-arrow span::before {
 }
 
 .logo-animation .logo-piece.g-4 div::before {
-    background: url(../Images/ui/logo/toyfight-word/g/g-v-2.svg) no-repeat center center
+    background: url(../images/ui/logo/toyfight-word/g/g-v-2.svg) no-repeat center center
 }
 
 .logo-animation .logo-piece.g-5 {
@@ -2514,7 +2514,7 @@ body[data-state=intro] .scroll-arrow span::before {
 }
 
 .logo-animation .logo-piece.g-5 div::before {
-    background: url(../Images/ui/logo/toyfight-word/g/g-h-2.svg) no-repeat center center
+    background: url(../images/ui/logo/toyfight-word/g/g-h-2.svg) no-repeat center center
 }
 
 .logo-animation .logo-piece.g-6 {
@@ -2525,7 +2525,7 @@ body[data-state=intro] .scroll-arrow span::before {
 }
 
 .logo-animation .logo-piece.g-6 div::before {
-    background: url(../Images/ui/logo/toyfight-word/g/g-d-2.svg) no-repeat center center
+    background: url(../images/ui/logo/toyfight-word/g/g-d-2.svg) no-repeat center center
 }
 
 .logo-animation .logo-piece.h-1 {
@@ -2534,7 +2534,7 @@ body[data-state=intro] .scroll-arrow span::before {
 }
 
 .logo-animation .logo-piece.h-1 div::before {
-    background: url(../Images/ui/logo/toyfight-word/h/h-v-1.svg) no-repeat center center
+    background: url(../images/ui/logo/toyfight-word/h/h-v-1.svg) no-repeat center center
 }
 
 .logo-animation .logo-piece.h-2 {
@@ -2543,7 +2543,7 @@ body[data-state=intro] .scroll-arrow span::before {
 }
 
 .logo-animation .logo-piece.h-2 div::before {
-    background: url(../Images/ui/logo/toyfight-word/h/h-d-1.svg) no-repeat center center
+    background: url(../images/ui/logo/toyfight-word/h/h-d-1.svg) no-repeat center center
 }
 
 .logo-animation .logo-piece.h-3 {
@@ -2554,7 +2554,7 @@ body[data-state=intro] .scroll-arrow span::before {
 }
 
 .logo-animation .logo-piece.h-3 div::before {
-    background: url(../Images/ui/logo/toyfight-word/h/h-v-2.svg) no-repeat center center
+    background: url(../images/ui/logo/toyfight-word/h/h-v-2.svg) no-repeat center center
 }
 
 .logo-animation .logo-piece.h-4 {
@@ -2563,7 +2563,7 @@ body[data-state=intro] .scroll-arrow span::before {
 }
 
 .logo-animation .logo-piece.h-4 div::before {
-    background: url(../Images/ui/logo/toyfight-word/h/h-d-2.svg) no-repeat center center
+    background: url(../images/ui/logo/toyfight-word/h/h-d-2.svg) no-repeat center center
 }
 
 .logo-animation .logo-piece.t2-1 {
@@ -2572,7 +2572,7 @@ body[data-state=intro] .scroll-arrow span::before {
 }
 
 .logo-animation .logo-piece.t2-1 div::before {
-    background: url(../Images/ui/logo/toyfight-word/t2/t2-v-1.svg) no-repeat center center
+    background: url(../images/ui/logo/toyfight-word/t2/t2-v-1.svg) no-repeat center center
 }
 
 .logo-animation .logo-piece.t2-2 {
@@ -2581,7 +2581,7 @@ body[data-state=intro] .scroll-arrow span::before {
 }
 
 .logo-animation .logo-piece.t2-2 div::before {
-    background: url(../Images/ui/logo/toyfight-word/t2/t2-h-1.svg) no-repeat center center
+    background: url(../images/ui/logo/toyfight-word/t2/t2-h-1.svg) no-repeat center center
 }
 
 .logo-animation .logo-piece.t2-3 {
@@ -2590,7 +2590,7 @@ body[data-state=intro] .scroll-arrow span::before {
 }
 
 .logo-animation .logo-piece.t2-3 div::before {
-    background: url(../Images/ui/logo/toyfight-word/t2/t2-d-1.svg) no-repeat center center
+    background: url(../images/ui/logo/toyfight-word/t2/t2-d-1.svg) no-repeat center center
 }
 
 .logo-animation .logo-piece.logo-piece-dash {
@@ -2606,7 +2606,7 @@ body[data-state=intro] .scroll-arrow span::before {
 }
 
 .logo-animation .logo-piece.logo-piece-dash div::before {
-    background: url(../Images/ui/logo/toyfight-word/slash.svg) no-repeat center center
+    background: url(../images/ui/logo/toyfight-word/slash.svg) no-repeat center center
 }
 
 .logo-animation .logo-piece.logo-piece-rights {
@@ -2617,7 +2617,7 @@ body[data-state=intro] .scroll-arrow span::before {
 }
 
 .logo-animation .logo-piece.logo-piece-rights div::before {
-    background: url(../Images/ui/logo/toyfight-word/rights.svg) no-repeat center center
+    background: url(../images/ui/logo/toyfight-word/rights.svg) no-repeat center center
 }
 
 .preloader-shield {
@@ -2693,35 +2693,35 @@ body[data-state=intro] .underline-link:hover span {
 }
 
 body[data-state=intro] .icon-mail::before {
-    background: url(../Images/ui/colors/intro/icon-mail.svg) no-repeat center center/100%
+    background: url(../images/ui/colors/intro/icon-mail.svg) no-repeat center center/100%
 }
 
 body[data-state=intro] .icon-twitter::before {
-    background: url(../Images/ui/colors/intro/icon-twitter.svg) no-repeat center center/100%
+    background: url(../images/ui/colors/intro/icon-twitter.svg) no-repeat center center/100%
 }
 
 body[data-state=intro] .icon-behance::before {
-    background: url(../Images/ui/colors/intro/icon-behance.svg) no-repeat center center/100%
+    background: url(../images/ui/colors/intro/icon-behance.svg) no-repeat center center/100%
 }
 
 body[data-state=intro] .icon-instagram::before {
     background-color: #fbe10f;
-    -webkit-mask-image: url(../Images/ui/icon-instagram.svg);
-    mask-image: url(../Images/ui/icon-instagram.svg)
+    -webkit-mask-image: url(../images/ui/icon-instagram.svg);
+    mask-image: url(../images/ui/icon-instagram.svg)
 }
 
 body[data-state=intro] .icon-facebook::before {
     background-color: #fbe10f;
-    -webkit-mask-image: url(../Images/ui/icon-facebook.svg);
-    mask-image: url(../Images/ui/icon-facebook.svg)
+    -webkit-mask-image: url(../images/ui/icon-facebook.svg);
+    mask-image: url(../images/ui/icon-facebook.svg)
 }
 
 body[data-state=intro] .icon-dribbble::before {
-    background: url(../Images/ui/colors/intro/icon-dribbble.svg) no-repeat center center/100%
+    background: url(../images/ui/colors/intro/icon-dribbble.svg) no-repeat center center/100%
 }
 
 body[data-state=intro] .icon-linkedin::before {
-    background: url(../Images/ui/colors/intro/icon-linkedin.svg) no-repeat center center/100%
+    background: url(../images/ui/colors/intro/icon-linkedin.svg) no-repeat center center/100%
 }
 
 .who-content h1 {
@@ -2746,35 +2746,35 @@ body[data-state=who] .underline-link:hover span {
 }
 
 body[data-state=who] .icon-mail::before {
-    background: url(../Images/ui/colors/who/icon-mail.svg) no-repeat center center/100%
+    background: url(../images/ui/colors/who/icon-mail.svg) no-repeat center center/100%
 }
 
 body[data-state=who] .icon-twitter::before {
-    background: url(../Images/ui/colors/who/icon-twitter.svg) no-repeat center center/100%
+    background: url(../images/ui/colors/who/icon-twitter.svg) no-repeat center center/100%
 }
 
 body[data-state=who] .icon-behance::before {
-    background: url(../Images/ui/colors/who/icon-behance.svg) no-repeat center center/100%
+    background: url(../images/ui/colors/who/icon-behance.svg) no-repeat center center/100%
 }
 
 body[data-state=who] .icon-instagram::before {
     background-color: #1544c0;
-    -webkit-mask-image: url(../Images/ui/icon-instagram.svg);
-    mask-image: url(../Images/ui/icon-instagram.svg)
+    -webkit-mask-image: url(../images/ui/icon-instagram.svg);
+    mask-image: url(../images/ui/icon-instagram.svg)
 }
 
 body[data-state=who] .icon-facebook::before {
     background-color: #1544c0;
-    -webkit-mask-image: url(../Images/ui/icon-facebook.svg);
-    mask-image: url(../Images/ui/icon-facebook.svg)
+    -webkit-mask-image: url(../images/ui/icon-facebook.svg);
+    mask-image: url(../images/ui/icon-facebook.svg)
 }
 
 body[data-state=who] .icon-dribbble::before {
-    background: url(../Images/ui/colors/who/icon-dribbble.svg) no-repeat center center/100%
+    background: url(../images/ui/colors/who/icon-dribbble.svg) no-repeat center center/100%
 }
 
 body[data-state=who] .icon-linkedin::before {
-    background: url(../Images/ui/colors/who/icon-linkedin.svg) no-repeat center center/100%
+    background: url(../images/ui/colors/who/icon-linkedin.svg) no-repeat center center/100%
 }
 
 .what-content h1 {
@@ -2810,35 +2810,35 @@ body[data-state=what] .underline-link:hover span {
 }
 
 body[data-state=what] a.icon-mail::before {
-    background: url(../Images/ui/colors/what/icon-mail.svg) no-repeat center center/100%
+    background: url(../images/ui/colors/what/icon-mail.svg) no-repeat center center/100%
 }
 
 body[data-state=what] a.icon-twitter::before {
-    background: url(../Images/ui/colors/what/icon-twitter.svg) no-repeat center center/100%
+    background: url(../images/ui/colors/what/icon-twitter.svg) no-repeat center center/100%
 }
 
 body[data-state=what] a.icon-behance::before {
-    background: url(../Images/ui/colors/what/icon-behance.svg) no-repeat center center/100%
+    background: url(../images/ui/colors/what/icon-behance.svg) no-repeat center center/100%
 }
 
 body[data-state=what] .icon-instagram::before {
     background-color: #f86449;
-    -webkit-mask-image: url(../Images/ui/icon-instagram.svg);
-    mask-image: url(../Images/ui/icon-instagram.svg)
+    -webkit-mask-image: url(../images/ui/icon-instagram.svg);
+    mask-image: url(../images/ui/icon-instagram.svg)
 }
 
 body[data-state=what] .icon-facebook::before {
     background-color: #f86449;
-    -webkit-mask-image: url(../Images/ui/icon-facebook.svg);
-    mask-image: url(../Images/ui/icon-facebook.svg)
+    -webkit-mask-image: url(../images/ui/icon-facebook.svg);
+    mask-image: url(../images/ui/icon-facebook.svg)
 }
 
 body[data-state=what] a.icon-dribbble::before {
-    background: url(../Images/ui/colors/what/icon-dribbble.svg) no-repeat center center/100%
+    background: url(../images/ui/colors/what/icon-dribbble.svg) no-repeat center center/100%
 }
 
 body[data-state=what] a.icon-linkedin::before {
-    background: url(../Images/ui/colors/what/icon-linkedin.svg) no-repeat center center/100%
+    background: url(../images/ui/colors/what/icon-linkedin.svg) no-repeat center center/100%
 }
 
 .work-content h3::after {
@@ -2866,41 +2866,41 @@ body[data-state=work] .underline-link:hover span {
 
 body[data-state=project] a.icon-mail::before,
 body[data-state=work] a.icon-mail::before {
-    background: url(../Images/ui/colors/work/icon-mail.svg) no-repeat center center/100%
+    background: url(../images/ui/colors/work/icon-mail.svg) no-repeat center center/100%
 }
 
 body[data-state=project] a.icon-twitter::before,
 body[data-state=work] a.icon-twitter::before {
-    background: url(../Images/ui/colors/work/icon-twitter.svg) no-repeat center center/100%
+    background: url(../images/ui/colors/work/icon-twitter.svg) no-repeat center center/100%
 }
 
 body[data-state=project] a.icon-behance::before,
 body[data-state=work] a.icon-behance::before {
-    background: url(../Images/ui/colors/work/icon-behance.svg) no-repeat center center/100%
+    background: url(../images/ui/colors/work/icon-behance.svg) no-repeat center center/100%
 }
 
 body[data-state=project] a.icon-instagram::before,
 body[data-state=work] .icon-instagram::before {
     background-color: #5817b3;
-    -webkit-mask-image: url(../Images/ui/icon-instagram.svg);
-    mask-image: url(../Images/ui/icon-instagram.svg)
+    -webkit-mask-image: url(../images/ui/icon-instagram.svg);
+    mask-image: url(../images/ui/icon-instagram.svg)
 }
 
 body[data-state=project] a.icon-facebook::before,
 body[data-state=work] .icon-facebook::before {
     background-color: #5817b3;
-    -webkit-mask-image: url(../Images/ui/icon-facebook.svg);
-    mask-image: url(../Images/ui/icon-facebook.svg)
+    -webkit-mask-image: url(../images/ui/icon-facebook.svg);
+    mask-image: url(../images/ui/icon-facebook.svg)
 }
 
 body[data-state=project] a.icon-dribbble::before,
 body[data-state=work] a.icon-dribbble::before {
-    background: url(../Images/ui/colors/work/icon-dribbble.svg) no-repeat center center/100%
+    background: url(../images/ui/colors/work/icon-dribbble.svg) no-repeat center center/100%
 }
 
 body[data-state=project] a.icon-linkedin::before,
 body[data-state=work] a.icon-linkedin::before {
-    background: url(../Images/ui/colors/work/icon-linkedin.svg) no-repeat center center/100%
+    background: url(../images/ui/colors/work/icon-linkedin.svg) no-repeat center center/100%
 }
 
 .page-content {
@@ -4686,7 +4686,7 @@ footer::before {
 
 /*footer::after {
     content: '';
-    background: url(../Images/figures/nativecreativ.png) no-repeat center center/100%;
+    background: url(../images/figures/nativecreativ.png) no-repeat center center/100%;
     width: 675px;
     height: 670px;
     position: absolute;
@@ -5339,7 +5339,7 @@ footer.condensed[data-active=on] .footer-footer {
 
 .exploded-figures .jonny-exploded {
     left: -25vw;
-    background: url(../Images/Team/Eeshan2.png) no-repeat center center/100% 100%;
+    background: url(../images/Team/Eeshan2.png) no-repeat center center/100% 100%;
     top: 7vw;
     -webkit-transition: .65s cubic-bezier(.52, .01, .16, 1) .4s;
     -moz-transition: .65s cubic-bezier(.52, .01, .16, 1) .4s;
@@ -5349,7 +5349,7 @@ footer.condensed[data-active=on] .footer-footer {
 .exploded-figures .leigh-exploded {
     left: 23vw;
     top: -6vw;
-    background: url(../Images/Team/a.png) no-repeat center center/100% 100%;
+    background: url(../images/Team/a.png) no-repeat center center/100% 100%;
     -webkit-transition: .65s cubic-bezier(.52, .01, .16, 1) .65s;
     -moz-transition: .65s cubic-bezier(.52, .01, .16, 1) .65s;
     transition: .65s cubic-bezier(.52, .01, .16, 1) .65s
@@ -5707,54 +5707,54 @@ section.profile-section[data-active=off] .profile-figure div {
         height: 300px
     }
     section.profile-section .mob-eeshan {
-        background: url(../Images/Team/Eeshan1-mob.png) no-repeat center bottom/350px
+        background: url(../images/Team/Eeshan1-mob.png) no-repeat center bottom/350px
     }
     section.profile-section .mob-su {
-        background: url(../Images/Team/Suhasini-mob.png) no-repeat center bottom/300px
+        background: url(../images/Team/Suhasini-mob.png) no-repeat center bottom/300px
     }
     section.profile-section .mob-nay {
-        background: url(../Images/Team/nayythan-mob.png) no-repeat center bottom/280px
+        background: url(../images/Team/nayythan-mob.png) no-repeat center bottom/280px
     }
     section.profile-section .mob-ayush {
-        background: url(../Images/Team/Aayush-mob.png) no-repeat center bottom/340px
+        background: url(../images/Team/Aayush-mob.png) no-repeat center bottom/340px
     }
     section.profile-section .mob-nob {
-        background: url(../Images/Team/Noboday-mob.png) no-repeat center bottom/340px
+        background: url(../images/Team/Noboday-mob.png) no-repeat center bottom/340px
     }
     section.profile-section .mob-asif {
-        background: url(../Images/Team/Asif-mob.png) no-repeat center bottom/260px
+        background: url(../images/Team/Asif-mob.png) no-repeat center bottom/260px
     }
     section.profile-section .mob-arjun {
-        background: url(../Images/Team/Arjun-mob.png) no-repeat center bottom/260px
+        background: url(../images/Team/Arjun-mob.png) no-repeat center bottom/260px
     }
 }
 
 .eeshan-profile-figure div:nth-child(1) {
-    background: url(../Images/Team/Eeshan1.png) no-repeat center center/100%
+    background: url(../images/Team/Eeshan1.png) no-repeat center center/100%
 }
 
 .su-profile-figure div:nth-child(1) {
-    background: url(../Images/Team/Suhasini.png) no-repeat center center/100%
+    background: url(../images/Team/Suhasini.png) no-repeat center center/100%
 }
 
 .nay-profile-figure div:nth-child(1) {
-    background: url(../Images/Team/nayythan.png) no-repeat center center/100%
+    background: url(../images/Team/nayythan.png) no-repeat center center/100%
 }
 
 .ayush-profile-figure div:nth-child(1) {
-    background: url(../Images/Team/Aayush.png) no-repeat center center/100%
+    background: url(../images/Team/Aayush.png) no-repeat center center/100%
 }
 
 .nob-profile-figure div:nth-child(1) {
-    background: url(../Images/Team/Noboday.png) no-repeat center center/100%
+    background: url(../images/Team/Noboday.png) no-repeat center center/100%
 }
 
 .asif-profile-figure div:nth-child(1) {
-    background: url(../Images/Team/Asif.png) no-repeat center center/100%
+    background: url(../images/Team/Asif.png) no-repeat center center/100%
 }
 
 .arjun-profile-figure div:nth-child(1) {
-    background: url(../Images/Team/Arjun.png) no-repeat center center/100%
+    background: url(../images/Team/Arjun.png) no-repeat center center/100%
 }
 
 .work-intro {
