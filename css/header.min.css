@@ -757,7 +757,7 @@ body[data-state=project] .preloader-shield .tf {
 }
 
 body[data-state=project] .preloader-shield .tf::before {
-    background: url(../images/ui/logo/NC-black.svg) no-repeat center center/100%
+    background: url(../images/ui/logo/logo.png) no-repeat center center/100%
 }
 
 .main-nav {
